@@ -1,0 +1,21 @@
+.table-bg {
+    background: rgba(0,0,0,0.3);
+    border-radius: 15px 15px 0 0;
+}
+
+.box-search{
+    display: flex;
+    justify-content: center;
+    gap: .2%;
+}
+
+.botoes {
+    justify-content: center;
+    gap: .2%;
+}
+
+.admbtn {
+
+    padding-left: 10px;
+    padding-right: 10px;
+}
